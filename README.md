@@ -19,10 +19,10 @@ The focus is on two major tech creators: **MKBHD** and **Mrwhosetheboss**.
 ---
 
 ## 📂 Project Structure
-- `notebooks/` → Step-by-step Jupyter notebooks for exploration.
-- `scripts/` → Modular Python scripts for API calls and analysis.
-- `dashboards/` → Power BI dashboard (`.pbix`) file.
-- `data/` → Sample datasets (CSV/Excel).
+- `notebooks` → Step-by-step Jupyter notebooks for exploration.
+- `scripts` → Modular Python scripts for API calls and analysis.
+- `dashboards` → Power BI dashboard (`.pbix`) file & Photos
+- `datas` → Fetched datasets (CSV/Excel).
 - `Comparative Analysis` 
 
 ---
