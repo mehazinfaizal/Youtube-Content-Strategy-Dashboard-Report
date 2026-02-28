@@ -4,6 +4,23 @@ This project analyzes YouTube video performance and content strategies using the
 The focus is on two major tech creators: **MKBHD** and **Mrwhosetheboss**.
 
 ---
+## 🎯 Business Problem
+
+If a new tech media channel were to launch today:
+
+👉 What content strategy would drive faster growth?
+👉 What video formats maximize engagement?
+👉 Does consistency matter more than virality?
+
+This project answers those questions by analyzing historical performance across:
+
+- Content themes
+
+- Engagement patterns
+
+- Publishing trends
+
+- Video duration impact
 
 ## 🔧 Features
 - **Data Collection:** Automated extraction of video metadata (title, views, likes, comments, duration, publish time).
