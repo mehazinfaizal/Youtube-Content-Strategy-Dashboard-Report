@@ -66,8 +66,8 @@ Highest engagement is observed in:
 
 The analysis highlights that:
 
-➡️ Viral reach accelerates growth
-➡️ Audience trust sustains long-term success
+  ➡️ Viral reach accelerates growth
+  ➡️ Audience trust sustains long-term success
 
 
 ## 🔧 Features
