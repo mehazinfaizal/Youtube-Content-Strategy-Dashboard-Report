@@ -8,9 +8,9 @@ The focus is on two major tech creators: **MKBHD** and **Mrwhosetheboss**.
 
 If a new tech media channel were to launch today:
 
-👉 What content strategy would drive faster growth?
-👉 What video formats maximize engagement?
-👉 Does consistency matter more than virality?
+- 👉 What content strategy would drive faster growth?
+- 👉 What video formats maximize engagement?
+- 👉 Does consistency matter more than virality?
 
 This project answers those questions by analyzing historical performance across:
 
