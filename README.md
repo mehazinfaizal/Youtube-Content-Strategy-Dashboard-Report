@@ -25,42 +25,42 @@ This project answers those questions by analyzing historical performance across:
 ## 🔍 Key Insights
 1. Reach vs Loyalty
 
-- Mrwhosetheboss leads in average reach
+  - Mrwhosetheboss leads in average reach
 
-- MKBHD shows more stable engagement
+  - MKBHD shows more stable engagement
 
-- ➡️ Viral reach and loyal engagement are driven by different content strategies.
+  ➡️ Viral reach and loyal engagement are driven by different content strategies.
 
 2. Content Themes Matter
 
 High-performing topics include:
 
-- iPhone
+  - iPhone
 
-- Samsung
+  - Samsung
 
-- Tech Comparisons
+  - Tech Comparisons
 
-- Product Reviews
+  - Product Reviews
 
-➡️ Brand-led content consistently attracts more views.
+  ➡️ Brand-led content consistently attracts more views.
 
 3. Optimal Video Duration
 
 Highest engagement is observed in:
 
-📌 5–15 minute videos
+  - 📌 5–15 minute videos
 
-Long-form videos show declining engagement.
+  - Long-form videos show declining engagement.
 
 4. Growth Patterns
 
-- Mrwhosetheboss experienced rapid growth spikes
+  - Mrwhosetheboss experienced rapid growth spikes
 
-- MKBHD shows steady long-term scaling
+  - MKBHD shows steady long-term scaling
 
-➡️ Consistency supports sustainability
-➡️ Viral topics drive rapid growth
+  ➡️ Consistency supports sustainability
+  ➡️ Viral topics drive rapid growth
 
 ## 📎 Project Outcome
 
