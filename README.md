@@ -22,6 +22,54 @@ This project answers those questions by analyzing historical performance across:
 
 - Video duration impact
 
+## 🔍 Key Insights
+1. Reach vs Loyalty
+
+- Mrwhosetheboss leads in average reach
+
+- MKBHD shows more stable engagement
+
+- ➡️ Viral reach and loyal engagement are driven by different content strategies.
+
+2. Content Themes Matter
+
+High-performing topics include:
+
+- iPhone
+
+- Samsung
+
+- Tech Comparisons
+
+- Product Reviews
+
+➡️ Brand-led content consistently attracts more views.
+
+3. Optimal Video Duration
+
+Highest engagement is observed in:
+
+📌 5–15 minute videos
+
+Long-form videos show declining engagement.
+
+4. Growth Patterns
+
+- Mrwhosetheboss experienced rapid growth spikes
+
+- MKBHD shows steady long-term scaling
+
+➡️ Consistency supports sustainability
+➡️ Viral topics drive rapid growth
+
+## 📎 Project Outcome
+
+The analysis highlights that:
+
+➡️ Viral reach accelerates growth
+➡️ Audience trust sustains long-term success
+
+
 ## 🔧 Features
 - **Data Collection:** Automated extraction of video metadata (title, views, likes, comments, duration, publish time).
 - **Data Cleaning:** Preprocessing publish dates, ISO durations, and engagement metrics.
@@ -42,12 +90,6 @@ This project answers those questions by analyzing historical performance across:
 - `datas` → Fetched datasets (CSV/Excel).
 - `Comparative Analysis` 
 
----
-
-## 📈 Results
-- Identified keywords like **“review”** and **“impressions”** driving 25–30% higher engagement.
-- Found optimal posting times by analyzing engagement by **day + hour**.
-- Comparative analysis showed differences in upload consistency and audience retention between creators.
 
 ---
 
@@ -59,14 +101,4 @@ This project answers those questions by analyzing historical performance across:
 
 ---
 
-## ⚙️ Tech Stack
-- **Python** (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, NLTK)
-- **YouTube Data API v3**
-- **Power BI** (dashboards)
-- **Jupyter Notebooks**
 
-## Problem Tackled
-
-- YouTube creators & brands struggle to understand what drives engagement (views, likes, comments) and how factors like posting time, video length, or title keywords affect performance.
-
-- There is no straightforward dashboard that combines API-driven data collection, content analysis, and competitor benchmarking.
